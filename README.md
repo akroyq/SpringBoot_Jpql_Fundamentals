@@ -53,4 +53,4 @@ This is a basic Spring Boot application to manage employees. You can add, view, 
 
 ## Testing the Application
 
-The `EmpdemoApplicationTests.java` file contains tests to ensure everything works as expected. Uncomment the `@Test` annotation in the test methods to run specific tests.
+The `EmpdemoApplicationTests.java` file contains tests to ensure everything works as expected.
